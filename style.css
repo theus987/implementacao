@@ -105,6 +105,11 @@ main {
     border-radius: 32px;
 }
 
+.main__banner-img{
+    width: 100%;
+    height: 120%;
+}
+
 .main__conteudo {
     text-align: justify;
     size: 32px;
